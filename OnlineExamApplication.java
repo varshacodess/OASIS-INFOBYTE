@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class QuizApplication1 {
+public class OnlineExamApplication {
     static Scanner sc = new Scanner(System.in);
     static int score = 0;
 
